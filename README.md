@@ -17,3 +17,5 @@ Goal is to make a decentralised system for ground mapping and Autonomous navigat
   - On the server-side use the raspicam data to build map.
   - Use RRT on top of ORB-SLAM2 to develop map of the entire room.
   - Once the Map is developed use the Point cloud generated to find the open-area in the room for accurate path planning.
+  - Use clustering algorithm to find the free space.
+
